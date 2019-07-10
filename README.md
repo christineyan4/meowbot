@@ -1,1 +1,2 @@
-MEOWBOT: a bot to make me happy
+meowbot:
+a slackbot to send me cat pics

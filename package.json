@@ -1,0 +1,28 @@
+{
+  "name": "meowbot",
+  "version": "1.0.0",
+  "description": "a slackbot to send me cat pics",
+  "main": "index.js",
+  "scripts": {
+    "test": "meow"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christineyan4/meowbot.git"
+  },
+  "author": "Christine Yan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christineyan4/meowbot/issues"
+  },
+  "homepage": "https://github.com/christineyan4/meowbot#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dom-parser": "^0.1.6",
+    "dotenv": "^8.0.0",
+    "express": "^4.17.1",
+    "mathjs": "^6.0.3",
+    "node-fetch": "^2.6.0",
+    "request": "^2.88.0"
+  }
+}
